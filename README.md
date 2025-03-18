@@ -1,7 +1,6 @@
 # SMGEM-Semi-supervised-matrixized-graph-embedding-machine
-This is the code for the paper entitled "A semi-supervised matrixized graph embedding machine for roller bearing fault diagnosis under few-labeled samples", published in the IEEE Transactions on Industrial Informatics, April 2023.
-
-Author: Haifeng Xu.
+This is the code for the paper entitled "A semi-supervised matrixized graph embedding machine for roller bearing fault diagnosis under few-labeled samples", published in the IEEE Transactions on Industrial Informatics, April 2023.<br>
+Author: Haifeng Xu.,<br>
 Organization: School of Mechanical Engineering, Anhui University of Technology, Ma’anshan, 243032, China.
 
 ## Citation
